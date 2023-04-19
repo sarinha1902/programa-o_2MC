@@ -26,11 +26,6 @@ h2{
     position: relative;
     left: 30%;
 }
-.rodapé{
+.footer{
     background-color: seagreen;
-    text-align: center; 
-} 
-.rodapé-imagem{
-    height: 60px;
-    padding: 12px 0;
 }
