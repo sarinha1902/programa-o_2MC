@@ -28,4 +28,9 @@ h2{
 }
 .rodapé{
     background-color: seagreen;
+    text-align: center; 
+} 
+.rodapé-imagem{
+    height: 60px;
+    padding: 12px 0;
 }
