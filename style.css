@@ -8,6 +8,9 @@ h2{
     position: relative;
     left: 43%;
 }
+.title{
+    texto-align:center;
+}
 .texto1{
     width: 75%;
     position: relative;
