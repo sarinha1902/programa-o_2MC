@@ -1,15 +1,11 @@
 header{
-   position: relative;
+    text-align: center;
    padding-left: 470px;
    border-radius: 5px;
    background-color: seagreen;
 }
 h2{
-    position: relative;
-    left: 43%;
-}
-.title{
-    texto-align:center;
+    text-align: center;
 }
 .texto1{
     width: 75%;
