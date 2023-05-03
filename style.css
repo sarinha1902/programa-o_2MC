@@ -4,6 +4,10 @@ header{
    border-radius: 5px;
    background-color: seagreen;
 }
+h1{
+    text-align: center;
+}
+
 h2{
     text-align: center;
 }
